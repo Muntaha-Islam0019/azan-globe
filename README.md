@@ -35,7 +35,7 @@ The whole app is a single `index.html`. The globe is drawn on a canvas with d3-g
 - Land outlines: [Natural Earth](https://www.naturalearthdata.com) (public domain), via [world-atlas](https://github.com/topojson/world-atlas)
 - Time zone cities: the [IANA time zone database](https://www.iana.org/time-zones) (public domain)
 - Fonts: Fredoka, Nunito and Baloo Bhaijaan 2 from Google Fonts (SIL Open Font License)
-- Azan recording: to be added
+- Azan recording: ["Islamic Call to Prayer (Dhuhr Adhan, Hamtramck, MI)"](https://freesound.org/s/255231/) by RJStefanski on Freesound, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), trimmed and converted to MP3
 
 ## Licence
 
