@@ -1,0 +1,21 @@
+Copyright (c) 2026 Md. Muntaha Islam. All rights reserved.
+
+This repository is public so that the project can be viewed and the live site
+can be visited. No licence is granted to use, copy, modify, merge, publish,
+distribute, sublicense or sell this code or its assets, in whole or in part,
+including in other websites or apps, without prior written permission from the
+copyright holder.
+
+Viewing the source on GitHub, and forking it within GitHub as allowed by
+GitHub's Terms of Service, are permitted. Nothing else is.
+
+Third-party parts keep their own licences:
+- D3 (ISC licence), loaded from cdnjs
+- Land outlines from Natural Earth (public domain), via world-atlas (ISC licence)
+- Time zone coordinates from the IANA time zone database (public domain)
+- Fredoka, Nunito and Baloo Bhaijaan 2 fonts (SIL Open Font License 1.1),
+  loaded from Google Fonts
+- The Azan recording, if included, under the licence stated in README.md
+
+For permission, contact the copyright holder through GitHub:
+https://github.com/Muntaha-Islam0019
