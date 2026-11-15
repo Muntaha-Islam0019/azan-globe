@@ -15,7 +15,7 @@ Third-party parts keep their own licences:
 - Time zone coordinates from the IANA time zone database (public domain)
 - Fredoka, Nunito and Baloo Bhaijaan 2 fonts (SIL Open Font License 1.1),
   loaded from Google Fonts
-- azan.mp3: "Islamic Call to Prayer (Dhuhr Adhan, Hamtramck, MI)" by
+- media/azan.mp3: "Islamic Call to Prayer (Dhuhr Adhan, Hamtramck, MI)" by
   RJStefanski on Freesound (https://freesound.org/s/255231/), licensed
   CC BY 3.0, trimmed and converted to MP3
 

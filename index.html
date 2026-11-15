@@ -214,7 +214,7 @@ dialog::backdrop{background:rgba(42,27,61,.55)}
   </div>
 </dialog>
 
-<audio id="azan" src="azan.mp3" loop preload="none"></audio>
+<audio id="azan" src="media/azan.mp3" loop preload="none"></audio>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script id="core">
@@ -716,7 +716,7 @@ function toast(msg){
 }
 function soundFailed(){
   audioOk = false; soundOn = false; btnSound.setAttribute('aria-pressed', 'false'); btnSound.textContent = 'Sound off';
-  toast('No Azan recording is bundled yet. Put a file named azan.mp3 next to this page and the sound will work.');
+  toast('No Azan recording is bundled yet. Put a file named azan.mp3 in the media folder and the sound will work.');
 }
 audio.addEventListener('error', function(){ if (soundOn) soundFailed(); });
 btnSound.addEventListener('click', function(){
